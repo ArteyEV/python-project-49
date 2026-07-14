@@ -3,7 +3,9 @@ name = "hexlet-code"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+    "prompt>=0.4.1",
+]
 
 [project.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
