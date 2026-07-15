@@ -20,3 +20,7 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ArteyEV_python-project-493&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ArteyEV_python-project-493)
 
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ArteyEV_python-project-493&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ArteyEV_python-project-493)
+
+### Demo
+
+[![asciicast](https://asciinema.org/a/yRBV1t0f77o3QlbS.svg)](https://asciinema.org/a/yRBV1t0f77o3QlbS)
