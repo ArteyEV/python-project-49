@@ -30,3 +30,7 @@
 **brain-calc**
 
 [![asciicast](https://asciinema.org/a/XKZsBLiRu0FwcJoV.svg)](https://asciinema.org/a/XKZsBLiRu0FwcJoV)
+
+**brain-gcd**
+
+[![asciicast](https://asciinema.org/a/ewtP8HTBEIbQjjpS.svg)](https://asciinema.org/a/ewtP8HTBEIbQjjpS)
