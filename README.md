@@ -23,4 +23,10 @@
 
 ### Demo
 
+**brain-even**
+
 [![asciicast](https://asciinema.org/a/yRBV1t0f77o3QlbS.svg)](https://asciinema.org/a/yRBV1t0f77o3QlbS)
+
+**brain-calc**
+
+[![asciicast](https://asciinema.org/a/XKZsBLiRu0FwcJoV.svg)](https://asciinema.org/a/XKZsBLiRu0FwcJoV)
