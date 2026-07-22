@@ -25,7 +25,7 @@
 
 **brain-even**
 
-[![asciicast](https://asciinema.org/a/yRBV1t0f77o3QlbS.svg)](https://asciinema.org/a/I1glTDEPD6oq3zKS)
+[![asciicast](https://asciinema.org/a/I1glTDEPD6oq3zKS.svg)](https://asciinema.org/a/I1glTDEPD6oq3zKS)
 
 **brain-calc**
 
